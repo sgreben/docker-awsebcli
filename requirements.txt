@@ -1,1 +1,1 @@
-awsebcli==3.21.0
+awsebcli==3.22.0
